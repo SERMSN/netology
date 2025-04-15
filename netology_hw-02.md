@@ -1,7 +1,7 @@
 # netology_hw-02
 ## Домашнее задание к занятию «Система мониторинга Zabbix» - Малявко Сергей
 
-#### Учтановлен Zabbix Server и 2 агента, Apache, PHP и PostgreSQL
+#### Установлен Zabbix Server и 2 агента, Apache, PHP и PostgreSQL
 
 #### Задание 1
 
