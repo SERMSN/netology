@@ -8,7 +8,7 @@
 
 #### Задание 2-3 - Добавьте в Zabbix два хоста. Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
 1) ![Скриншот страницы c host где видно Два привязанных шаблона + зеленый статус одключения рис. 3](https://github.com/SERMSN/netology/blob/main/hw-03-23-1.png)
-
+2) ![Скриншот страницы c поступлением данных шаблона рис. 4](https://github.com/SERMSN/netology/blob/main/hw-03-23-2.png)
 #### Задание 4 - Создайте свой кастомный дашборд.
 
-1) ![Скриншот собственного дашборда рис. 4](https://github.com/SERMSN/netology/blob/main/hw-03-3_1.png)
+1) ![Скриншот собственного дашборда рис. 5](https://github.com/SERMSN/netology/blob/main/hw-03-3_1.png)
